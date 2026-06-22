@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-del-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricia del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-del-alma/) |
+| **Get License** | [Music Rights & Licensing for Caricia del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-del-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Cruzando miradas, la vibra se siente cabrón
+> Baby, tu silueta me sube toda la presión
+> Un juego secreto buscando la misma intención
+> Acércate un poco y robemos la habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
