@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia del alma
+
+This log tracks the cryptographic history and versioning for the song **Caricia del alma** (caricia-del-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:23:56.781089 | `v1` | `4ab6d683a2d1a8821ab7f874c34b9b4ee36f7ada0d40b88008f661b621e23145` | `7dfa7e42c0020ccddfe2387340e88401a4e2c4df3937a513c0d552a6c4906082` | `2026-06-22_caricia-del-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-del-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caricia del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-del-alma/) |
+| **Get License** | [Request Licensing for Caricia del alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-del-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4ab6d683a2d1a8821ab7f874c34b9b4ee36f7ada0d40b88008f661b621e23145` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
